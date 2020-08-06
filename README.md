@@ -1,4 +1,4 @@
-# Project 1: SAT & ACT Analysis
+# SAT & ACT Analysis
 Our team was asked to analyze statewide participation and recommends where money is best spent to improve SAT participation rates. In our study we analyzed 2017 and 2018, SAT and ACT exam participation rates and scores. Our aim is to show the College Board which states prefer which exam.
 
 The College Board develops and administers the SAT test. Board executive directors do not know if the SAT exam is preferred over the ACT exam.
